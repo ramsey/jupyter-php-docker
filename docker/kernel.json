@@ -1,0 +1,10 @@
+{
+    "argv": [
+        "php",
+        "/home/jovyan/.jupyter-php/pkgs/vendor/litipk/jupyter-php/src/kernel.php",
+        "{connection_file}"
+    ],
+    "display_name": "PHP",
+    "language": "php",
+    "env": {}
+}
